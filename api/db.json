@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "MyFirstStream",
+      "description": "This is awesome!!",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "We are doing good!!",
+      "id": 2
+    },
+    {
+      "title": "My Third Stream Edit",
+      "description": "Completed Edit Functionality",
+      "userId": "112304567101070305847",
+      "id": 3
+    },
+    {
+      "title": "Delete Functionality",
+      "description": "Completed Delete Functionality",
+      "userId": "112304567101070305847",
+      "id": 4
+    }
+  ]
+}
